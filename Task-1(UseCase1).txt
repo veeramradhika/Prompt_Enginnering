@@ -9,7 +9,7 @@ Prompt 2: write a document on topic cooking hobby with title, introduction can b
           Conclusion with its summary or benefits or outcomes
 
 Prompt 3: write a document on the topic:  cooking hobby with Following below format: 
-          ''' Title, one paragraph introduction, one to two paragraphs which Describes the mechanism and precise and shot conclusion with its summary'''
+          Title, one paragraph introduction, one to two paragraphs which Describes the mechanism and precise and shot conclusion with its summary.
 
 ----------------------------------------------Response: (For Prompt-1,prompt-2,prompt-3)---------------------------------------------------------------------
 
